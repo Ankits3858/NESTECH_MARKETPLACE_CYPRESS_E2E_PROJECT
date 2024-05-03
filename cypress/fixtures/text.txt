@@ -1,0 +1,3 @@
+http://groovyconsole.appspot.com/
+https://www.jdoodle.com/execute-groovy-online/
+https://onecompiler.com/groovy
